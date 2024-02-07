@@ -18,5 +18,3 @@ Skills: PHP/ Laravel / VUE JS / REACT / JS / HTML / CSS / Bootstrap / Tailwind /
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mobarak10)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub metrics](https://metrics.lecoq.io/mobarak10)  
-
