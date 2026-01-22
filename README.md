@@ -6,7 +6,7 @@ Detailed-oriented, responsible and committed engineer, with a get-it-done, on-ti
 
 Skills: PHP/ Laravel / VUE JS / REACT / JS / HTML / CSS / Bootstrap / Tailwind / SQL
 
-- 🔭 I’m currently working on Utkorsho IT 
+- 🔭 I’m currently working on Quality Feeds Limited
 - 👯 I’m looking to collaborate on Laravel 
 - 💬 Ask me about Web Development & Design 
 - 📫 How to reach me: 01701028220 
